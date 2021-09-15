@@ -1,4 +1,7 @@
-# Music-bot
+# Octotunes-bot
+# SourceCode by ZerioDev https://github.com/ZerioDev/Music-bot
+
+Original description
 
 ## Migrating to v5...
 
