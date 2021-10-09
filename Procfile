@@ -1,0 +1,1 @@
+Worker: node ./config/bot.js
